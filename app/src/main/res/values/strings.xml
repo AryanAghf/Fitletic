@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fitletic</string>
+    <string name="app_description">Fitness look a like app!</string>
+    <string name="google_signup">Sign up with google</string>
+    <string name="facebook_signup">Sign up with facebook</string>
+    <string name="start_signup">Get started</string>
+    <string name="have_account">Already have an account? Login.</string>
+</resources>
