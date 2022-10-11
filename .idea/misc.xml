@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.149" />
         <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/drawable/bg_gradient.xml" value="0.149" />
+        <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/drawable/btn_signup.xml" value="0.17" />
+        <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/drawable/button_bg.xml" value="0.17" />
+        <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/drawable/button_signup.xml" value="0.17" />
         <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/drawable/ic_apple_black_24dp.xml" value="0.149" />
         <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/drawable/ic_facebook_black_24dp.xml" value="0.1" />
         <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/drawable/ic_fitletic_logo.xml" value="0.149" />
@@ -12,7 +15,7 @@
         <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/drawable/ic_launcher_background.xml" value="0.149" />
         <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/drawable/logo.xml" value="0.149" />
         <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/drawable/splash_background.xml" value="0.149" />
-        <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/layout/activity_main.xml" value="0.1265625" />
+        <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/aryan/Documents/AndroidStudio/Fitletic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.149" />
       </map>
